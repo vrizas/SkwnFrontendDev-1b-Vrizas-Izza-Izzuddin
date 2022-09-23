@@ -1,4 +1,5 @@
 import profilePic from '../assets/images/profile-pic.jpg';
+import Service from './Service';
 import Visa from './Visa';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         </header>
         <main>
           <Visa />
+          <Service />
         </main>  
       </div>
       
